@@ -20,8 +20,7 @@ development, backend systems, cybersecurity and AI.
 
 ## About Me
 
-I got into the world of technology through **cybersecurity**, rather
-than programming.
+I got into the world of technology through **cybersecurity**.
 
 My interest in cybersecurity eventually led me into programming,
 web development, operating systems, networking and software development.
