@@ -114,16 +114,6 @@ being my main one.
 
 ---
 
-## Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Whitepeeves&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Currently Working On
 
 **SeeYou**
