@@ -2,7 +2,7 @@
 
 # Peeves
 
-### I build a stuff.
+### I build stuff.
 
 Developer focused on cybersecurity, software and technology.
 
@@ -35,29 +35,7 @@ being my main one.
 
 ## SeeYou
 
-**SeeYou** is a social network focused on sharing real moments,
-discovering what friends are doing and turning everyday activity
-into visual memories.
-
-The project combines social networking, messaging, location,
-activities and personal memories.
-
-### Features
-
-- Profiles and privacy
-- Photos and quick posts
-- Personal and friends feed
-- Private messaging
-- Group chats
-- Spotify integration
-- Locations and activities
-- Maps and routes
-- Activity streaks
-- Notifications
-- Friends, followers and recommendations
-- Web and Android
-
-[View SeeYou on GitHub](https://github.com/Whitepeeves/SeeYou110826)
+[View project on GitHub](https://github.com/Whitepeeves/SeeYou110826)
 
 ---
 
@@ -148,42 +126,26 @@ activities and personal memories.
 
 ## Currently Working On
 
-### SeeYou
+**SeeYou**
 
 Developing and improving the platform, backend and Android application.
 
-### Web Development
+**Web Development**
 
 Working with modern web technologies and backend development.
 
-### Cybersecurity
+**Cybersecurity**
 
 Continuing to learn about cybersecurity, networking, Linux and
 security tools.
 
-### AI
+**AI**
 
 Experimenting with artificial intelligence and local AI projects.
 
 ---
 
-## Featured Project
-
-<div align="center">
-
-### SeeYou
-
-A social network focused on real moments and visual memories.
-
-[View Project](https://github.com/Whitepeeves/SeeYou110826)
-
-</div>
-
----
-
 ## Contact
-
-If you want to get in touch, you can find me on Instagram:
 
 <div align="center">
 
@@ -195,6 +157,6 @@ If you want to get in touch, you can find me on Instagram:
 
 <div align="center">
 
-### I build a stuff.
+### I build stuff.
 
 </div>
